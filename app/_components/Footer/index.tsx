@@ -14,9 +14,14 @@ export default function Footer() {
           <li className={styles.item}>
             <a href="/contact">お問い合わせ</a>
           </li>
+          <li className={styles.item}>
+            <a href="">アクセス</a>
+          </li>
         </ul>
       </nav>
-      <p className={styles.cr}>© SIMPLE. All Rights Reserved 2025</p>
+      <p className={styles.cr}>
+        <small>&copy; 2025 SIMPLE. All Rights Reserved.</small>
+      </p>
     </footer>
   );
 }

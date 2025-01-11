@@ -33,7 +33,7 @@ const data: {
       category: {
         name: "更新情報",
       },
-      publishedAt: "2024/11/30",
+      publishedAt: "2025/1/30",
       createdAt: "2023/11/12",
     },
   ],
